@@ -13,12 +13,6 @@ An Android app built using Java and RecyclerView that allows users to view and a
 
 ---
 
-## 📱 Screenshots
-
-*(Add screenshots here if needed)*
-
----
-
 ## 🛠️ Tech Stack
 
 - Java
